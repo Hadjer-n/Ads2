@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4b056c0.css",
-    "main.js": "/static/js/main.da365e3f.js",
-    "static/media/LLM&chips.png": "/static/media/LLM&chips.1bcf52b8e15523505e88.png",
-    "static/media/SC.jpg": "/static/media/SC.8c9bf5eebe85fb8adb4d.jpg",
-    "static/media/ADS-removebg-preview.png": "/static/media/ADS-removebg-preview.f901ae571b2885da33b3.png",
-    "static/media/SDU-removebg-preview.png": "/static/media/SDU-removebg-preview.c839115916c68b9aff38.png",
-    "static/media/Muhammad.jpg": "/static/media/Muhammad.eb11ce6ae73223499214.jpg",
-    "index.html": "/index.html",
-    "main.d4b056c0.css.map": "/static/css/main.d4b056c0.css.map",
-    "main.da365e3f.js.map": "/static/js/main.da365e3f.js.map"
+    "main.css": "/ads4/static/css/main.d4b056c0.css",
+    "main.js": "/ads4/static/js/main.c6f35baa.js",
+    "static/media/LLM&chips.png": "/ads4/static/media/LLM&chips.1bcf52b8e15523505e88.png",
+    "static/media/SC.jpg": "/ads4/static/media/SC.8c9bf5eebe85fb8adb4d.jpg",
+    "static/media/ADS-removebg-preview.png": "/ads4/static/media/ADS-removebg-preview.f901ae571b2885da33b3.png",
+    "static/media/SDU-removebg-preview.png": "/ads4/static/media/SDU-removebg-preview.c839115916c68b9aff38.png",
+    "static/media/Muhammad.jpg": "/ads4/static/media/Muhammad.eb11ce6ae73223499214.jpg",
+    "index.html": "/ads4/index.html",
+    "main.d4b056c0.css.map": "/ads4/static/css/main.d4b056c0.css.map",
+    "main.c6f35baa.js.map": "/ads4/static/js/main.c6f35baa.js.map"
   },
   "entrypoints": [
     "static/css/main.d4b056c0.css",
-    "static/js/main.da365e3f.js"
+    "static/js/main.c6f35baa.js"
   ]
 }
